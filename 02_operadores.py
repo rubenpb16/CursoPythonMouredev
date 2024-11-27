@@ -28,3 +28,8 @@ print(3 == 4)
 print(3 != 4)
 
 print('Hola mundo')
+
+print(' ')
+print('#'*28)
+print('#'*3, ' Operadores Lógicos ', '#'*3)
+print('#'*28)
