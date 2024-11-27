@@ -33,3 +33,10 @@ print(' ')
 print('#'*28)
 print('#'*3, ' Operadores Lógicos ', '#'*3)
 print('#'*28)
+
+print(3 > 4 and 'Hola' > 'Python')
+print(3 > 4 or 'Hola' > 'Python')
+print(3 < 4 and 'Hola' < 'Python')
+print(3 < 4 or 'Hola' > 'Python')
+print(3 < 4 or ('Hola' > 'Python' and 4 == 4))
+print(not(3 > 4))# 'not' sirve para negar la condición
